@@ -1,0 +1,8 @@
+{
+  "name": "Say No to Motapa",
+  "description": "Say No to Motapa: High-quality Indian diet, fitness, and nutrition platform powered by Coach Majaz, interactive AI plate scanner, and 3D macro visualization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
